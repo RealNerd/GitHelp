@@ -13,4 +13,4 @@ Use *development* branch for most Pull Requests.
 
 During a _Release Cycle_, make Pull Requests against the appropriate *Release* branch for:
 - final iterations of Release Candidates
-- Release Hardening
+- Release Hardening (regression testing / debug)
